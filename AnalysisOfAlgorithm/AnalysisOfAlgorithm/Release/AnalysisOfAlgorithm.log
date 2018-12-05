@@ -1,0 +1,9 @@
+﻿  AnalysisOfAlgorithm.cpp
+c:\users\ali\source\repos\analysisofalgorithm\analysisofalgorithm\analysisofalgorithm.cpp(103): warning C4018: '<': signed/unsigned mismatch
+c:\users\ali\source\repos\analysisofalgorithm\analysisofalgorithm\analysisofalgorithm.cpp(106): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  9 of 486 functions ( 1.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  AnalysisOfAlgorithm.vcxproj -> C:\Users\ali\source\repos\AnalysisOfAlgorithm\Release\AnalysisOfAlgorithm.exe

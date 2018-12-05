@@ -1,0 +1,4 @@
+﻿  AnalysisOfAlgorithm.cpp
+c:\users\ali\source\repos\analysisofalgorithm\analysisofalgorithm\analysisofalgorithm.cpp(99): warning C4018: '<': signed/unsigned mismatch
+c:\users\ali\source\repos\analysisofalgorithm\analysisofalgorithm\analysisofalgorithm.cpp(102): warning C4018: '<': signed/unsigned mismatch
+  AnalysisOfAlgorithm.vcxproj -> C:\Users\ali\source\repos\AnalysisOfAlgorithm\Debug\AnalysisOfAlgorithm.exe
